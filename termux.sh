@@ -6,7 +6,7 @@ red='[1;31m'
 yellow='[1;33m'
 echo -e $lightgreen "[1m                Security Help For Ethical Hackers... "
 echo " "
-echo                          " -Skyhimabruh " | lolcat
+echo            " -Skyhimabruh " | lolcat
 echo " "
 echo " "
 echo " "
